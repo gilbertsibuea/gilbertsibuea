@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/iNGAKmaVB6oAAAAC/batman.gif"  />
-</div>
+
 
 <img src="https://pixel-city.2217051118.workers.dev/v1/city/gilbertsibuea.svg" width="100%" alt="Kota Pixel" />
 
