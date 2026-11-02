@@ -1,4 +1,4 @@
-<img src="https://pixel-city.2217051118.workers.dev/v1/city/gilbertsibuea.svg" width="100%" alt="Kota Pixel" />
+<img src="https://pixel-city.2217051118.workers.dev/v1/city/gilbertsibuea.svg?v=8" width="100%" alt="Kota Pixel" />
 
 ###
 
